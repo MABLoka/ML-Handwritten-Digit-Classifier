@@ -8,3 +8,6 @@ Key Features:
 - Optimized Performance: Tuned hyperparameters to improve model accuracy and reduce overfitting.
 
 This project demonstrates the application of Machine Learning to solve real-world problems and showcases the power of SVM in image classification tasks.
+
+
+Before Using the app, you need to train the model and "pickel" that instance to work
