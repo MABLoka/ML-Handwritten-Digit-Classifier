@@ -2,9 +2,9 @@ This project implements a handwritten digit recognition system using Multiclass 
 
 Key Features:
 
-    Data Preprocessing: Cleaned and prepared the MNIST dataset for training by normalizing pixel values and splitting the data into training and test sets.
-    Multiclass SVM: Implemented a multiclass SVM model for digit classification, leveraging the power of SVM for efficient classification.
-    Model Evaluation: Evaluated the model's performance using accuracy, confusion matrix, and other evaluation metrics to ensure reliable digit recognition.
-    Optimized Performance: Tuned hyperparameters to improve model accuracy and reduce overfitting.
+- Data Preprocessing: Cleaned and prepared the MNIST dataset for training by normalizing pixel values and splitting the data into training and test sets.
+- Multiclass SVM: Implemented a multiclass SVM model for digit classification, leveraging the power of SVM for efficient classification.
+- Model Evaluation: Evaluated the model's performance using accuracy, confusion matrix, and other evaluation metrics to ensure reliable digit recognition.
+- Optimized Performance: Tuned hyperparameters to improve model accuracy and reduce overfitting.
 
 This project demonstrates the application of Machine Learning to solve real-world problems and showcases the power of SVM in image classification tasks.
